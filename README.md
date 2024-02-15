@@ -1,4 +1,5 @@
-![Cover](./.github/cover.png)
+![cover](https://github.com/PauloLealSD/voice-notes/assets/93398811/f3c5e052-a023-45d6-98e7-90171b6d529d)
+
 
 # NLW Expert (React)
 
